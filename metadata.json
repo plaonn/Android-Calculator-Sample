@@ -1,0 +1,8 @@
+{
+  "name": "계산기",
+  "description": "A polished and responsive Material 3 calculator application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

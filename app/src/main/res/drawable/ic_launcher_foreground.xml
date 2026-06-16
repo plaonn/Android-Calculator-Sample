@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer glossy rounded card cabinet -->
+    <path
+        android:fillColor="#9B5DE5"
+        android:pathData="M32 24h44c4.4 0 8 3.6 8 8v44c0 4.4-3.6 8-8 8H32c-4.4 0-8-3.6-8-8V32c0-4.4 3.6-8 8-8z" />
+        
+    <!-- Darker display panel -->
+    <path
+        android:fillColor="#161B26"
+        android:pathData="M38 32h32v12H38z" />
+        
+    <!-- Tiny numbers inside screen -->
+    <path
+        android:fillColor="#00BBF9"
+        android:pathData="M60 36h4v4h-4z M65 36h1v4h-1z" />
+        
+    <!-- Calculator buttons (grid pattern) -->
+    <!-- Button 1 (AC/C) -->
+    <path
+        android:fillColor="#F15BB5"
+        android:pathData="M38 50h8v8h-8z" />
+    <!-- Button 2 (/) -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M50 50h8v8h-8z" />
+    <!-- Button 3 (*) -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M62 50h8v8h-8z" />
+        
+    <!-- Second Row -->
+    <!-- Button 4 (7) -->
+    <path
+        android:fillColor="#232D3F"
+        android:pathData="M38 62h8v8h-8z" />
+    <!-- Button 5 (8) -->
+    <path
+        android:fillColor="#232D3F"
+        android:pathData="M50 62h8v8h-8z" />
+    <!-- Button 6 (-) -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M62 62h8v8h-8z" />
+        
+    <!-- Third Row -->
+    <!-- Button 7 (1) -->
+    <path
+        android:fillColor="#232D3F"
+        android:pathData="M38 74h8v8h-8z" />
+    <!-- Button 8 (0) -->
+    <path
+        android:fillColor="#232D3F"
+        android:pathData="M50 74h8v8h-8z" />
+    <!-- Button 9 (=) -->
+    <path
+        android:fillColor="#00BBF9"
+        android:pathData="M62 74h8v8h-8z" />
+</vector>
